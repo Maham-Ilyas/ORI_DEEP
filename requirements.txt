@@ -1,13 +1,6 @@
-altair==4.1.0
-astor==0.8.1
-async-generator==1.10
 biopython==1.72
-atomicwrites==1.4.0
-backports.zoneinfo==0.2.1
 importlib-resources==5.2.2
 ipywidgets==7.6.3
-jedi==0.17.0
-jmespath==0.10.0
 jupyterlab-widgets==1.0.0
 Keras==2.3.1
 scipy==1.5.4
