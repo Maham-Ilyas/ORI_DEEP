@@ -39,7 +39,6 @@ pycairo==1.20.1
 pydeck==0.6.2
 pyreadline==2.1
 pytest==5.4.3
-PyYAML==5.4.1
 requests-cache==0.4.13
 s3transfer==0.5.0
 scipy==1.5.4
